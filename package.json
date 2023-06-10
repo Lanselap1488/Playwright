@@ -1,0 +1,21 @@
+{
+  "name": "playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lanselap1488/Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lanselap1488/Playwright/issues"
+  },
+  "homepage": "https://github.com/Lanselap1488/Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.35.0"
+  }
+}
